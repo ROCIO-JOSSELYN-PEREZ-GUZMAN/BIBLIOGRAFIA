@@ -1,0 +1,11 @@
+{
+  "name": "bibliografia Rocio Josselyn ",
+  "short_name": "bibliografia ",
+  "theme_color": "#c636b1",
+  "background_color": "#dd3ea0",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
